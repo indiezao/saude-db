@@ -11,7 +11,7 @@ Uma aplicação para emular um banco de dados local de um sistema de saúde.
 - Compatibilidade multi-plataforma (Com python3)
 
 
-### Pacotes:
+### Bibliotecas:
 - tabulate: para criar as tabelas de Pacientes, Medicos e Agendamentos
 - datetime: obter a data e hora e gerenciar os Agendamentos
 
